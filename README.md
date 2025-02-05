@@ -1,7 +1,7 @@
 # Dataset and Codes for [Using Language Models for assessment of users’ satisfaction with their partner in Persian]
 
 
-This repository contains the dataset used in our research paper titled **"[Using Language Models for assessment of users’ satisfaction with their partner in Persian]"**, which was accepted at [the first workshop on Language Models for Low-Resource Languages (LoResLM) at **Coling 2025**](https://loreslm.github.io/).
+This repository contains the dataset used in our research paper titled **"[Using Language Models for assessment of users’ satisfaction with their partner in Persian]"**, which was accepted at [the first workshop on Language Models for Low-Resource Languages (LoResLM) at **Coling 2025**](https://loreslm.github.io/program).
 
 ---
 
