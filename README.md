@@ -20,8 +20,19 @@ The dataset has been annotated to support research in [sentiment analysis].
 Detailed insights can be found in our paper:
 **"[Using Language Models for assessment of users’ satisfaction with their partner in Persian](https://coling-2025-proceedings.s3.us-east-1.amazonaws.com/workshops/LoResLM-2025/pdf/2025.loreslm-1.5.pdf)"**  
 
+## Cite
 If you use this dataset in your research, please consider citing our paper:
-[This section will be expanded with additional details soon.]
+
+```bash
+@inproceedings{habibzadeh2025using,
+  title={Using Language Models for assessment of users’ satisfaction with their partner in Persian},
+  author={Habibzadeh, Zahra and Asadpour, Masoud},
+  booktitle={Proceedings of the First Workshop on Language Models for Low-Resource Languages},
+  pages={78--88},
+  year={2025}
+}
+
+```
 
 ---
 
