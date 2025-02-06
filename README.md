@@ -21,7 +21,7 @@ Detailed insights can be found in our paper:
 **"[Using Language Models for assessment of users’ satisfaction with their partner in Persian](https://coling-2025-proceedings.s3.us-east-1.amazonaws.com/workshops/LoResLM-2025/pdf/2025.loreslm-1.5.pdf)"**  
 
 ## Cite
-Please cite the following paper in your publication if you are using the dataset in your research:
+Please cite the following paper in your publication if you are using the dataset(Dataset) in your research:
 
 ```bash
 @inproceedings{habibzadeh2025using,
